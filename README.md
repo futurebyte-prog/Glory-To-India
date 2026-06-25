@@ -26,7 +26,7 @@ Our mission is to build the largest community-driven archive of:
 
 The goal is simple:
 
-«Ensure that no important story disappears with time.»
+<b>Ensure that no important story disappears with time.</b>
 
 ---
 
@@ -175,9 +175,9 @@ Please include reliable references whenever possible.
 
 # 💡 Philosophy
 
-«Technology should not only build the future.»
+<b>Technology should not only build the future.</b>
 
-«It should also preserve the past.»
+<b>It should also preserve the past.</b>
 
 ---
 
