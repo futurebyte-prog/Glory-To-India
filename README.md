@@ -1,4 +1,4 @@
-<div align="center">🇮🇳 Glory to India
+<div align="center"> # 🇮🇳 Glory to India
 
 Preserving India's Forgotten Heroes, Stories & Heritage.
 
@@ -6,14 +6,10 @@ Preserving India's Forgotten Heroes, Stories & Heritage.
 
 ---
 
-"Status" (https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge)
-"Open Source" (https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge)
-"Contributions" (https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)
-"Made With Love" (https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 
 </div>---
 
-📖 About
+# 📖 About
 
 Glory to India is an open-source initiative dedicated to preserving India's historical memory.
 
@@ -34,7 +30,7 @@ The goal is simple:
 
 ---
 
-🌍 Why This Project?
+# 🌍 Why This Project?
 
 Across India, countless stories exist only in villages, local communities, old books, and oral traditions.
 
@@ -47,7 +43,7 @@ Glory to India exists to make sure they don't.
 
 ---
 
-✨ Vision
+# ✨ Vision
 
 Build an open digital archive where anyone can:
 
@@ -62,25 +58,25 @@ Build an open digital archive where anyone can:
 
 🚀 Planned Features
 
-🦸 Heroes Archive
+# 🦸 Heroes Archive
 
 A searchable database of India's forgotten heroes.
 
 ---
 
-🗺️ ArchiveMap
+# 🗺️ ArchiveMap
 
 Explore heroes, monuments, historical places and events on an interactive map.
 
 ---
 
-🎙️ StoryVault
+# 🎙️ StoryVault
 
 Preserve oral histories from families, villages and communities before they disappear.
 
 ---
 
-📚 Source Archive
+# 📚 Source Archive
 
 Every historical entry should include references wherever possible.
 
@@ -95,7 +91,7 @@ Supported sources include:
 
 ---
 
-🤝 Community Contributions
+# 🤝 Community Contributions
 
 Anyone can contribute:
 
@@ -109,7 +105,7 @@ Every contribution will go through a verification process.
 
 ---
 
-✅ Verification System
+# ✅ Verification System
 
 To maintain historical integrity, stories may receive one of the following statuses:
 
@@ -121,7 +117,7 @@ Status| Meaning
 
 ---
 
-🛣️ Roadmap
+# 🛣️ Roadmap
 
 Phase 1 — Foundation
 
@@ -160,7 +156,7 @@ Phase 4 — Expansion
 
 ---
 
-🤝 Contributing
+# 🤝 Contributing
 
 Whether you're a:
 
@@ -177,7 +173,7 @@ Please include reliable references whenever possible.
 
 ---
 
-💡 Philosophy
+# 💡 Philosophy
 
 «Technology should not only build the future.»
 
@@ -185,7 +181,7 @@ Please include reliable references whenever possible.
 
 ---
 
-📜 License
+# 📜 License
 
 License will be added before the first stable release.
 
