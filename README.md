@@ -1,107 +1,202 @@
-Glory to India 🇮🇳
+<div align="center">🇮🇳 Glory to India
 
-«Preserving India's forgotten stories, one contribution at a time.»
+Preserving India's Forgotten Heroes, Stories & Heritage.
 
-Vision
-
-Glory to India is an open-source digital archive dedicated to preserving India's historical legacy by documenting unsung heroes, regional history, oral traditions, and cultural heritage.
-
-The project aims to create a community-driven platform where historians, students, researchers, and volunteers can contribute verified historical information for future generations.
+"History is not only what is written in textbooks. It is also what survives in the memories of people."
 
 ---
 
-Why?
+"Status" (https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge)
+"Open Source" (https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge)
+"Contributions" (https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)
+"Made With Love" (https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 
-History is more than what appears in textbooks.
+</div>---
 
-Across India, countless freedom fighters, warriors, social reformers, scientists, artists, tribal leaders, and local heroes remain known only within their communities. Many stories survive only through oral tradition and risk being lost over time.
+📖 About
 
-Glory to India exists to preserve these stories in a structured, searchable, and verifiable archive.
+Glory to India is an open-source initiative dedicated to preserving India's historical memory.
 
----
+Our mission is to build the largest community-driven archive of:
 
-Project Goals
+- 🇮🇳 Unsung Heroes
+- 🛡️ Freedom Fighters
+- 🏹 Tribal Leaders
+- 👑 Kings & Queens
+- 📜 Oral Traditions
+- 🏛️ Historical Places
+- 🎭 Cultural Heritage
+- 📚 Historical Sources
 
-- Preserve the stories of unsung heroes.
-- Encourage community participation.
-- Promote evidence-based historical documentation.
-- Build a searchable digital archive.
-- Preserve oral traditions with proper attribution.
-- Make regional history accessible to everyone.
+The goal is simple:
 
----
-
-Planned Modules
-
-Heroes Archive
-
-Profiles of historical figures from across India.
-
-StoryVault
-
-A collection of oral histories, interviews, and community stories.
-
-ArchiveMap
-
-An interactive map to explore heroes, historical places, and events by region.
-
-Source Archive
-
-A repository of references including books, research papers, archival documents, and trusted publications.
-
-Community Contributions
-
-A workflow that allows volunteers to submit stories, sources, corrections, and new discoveries.
+«Ensure that no important story disappears with time.»
 
 ---
 
-Verification Policy
+🌍 Why This Project?
 
-Accuracy is a core principle of this project.
+Across India, countless stories exist only in villages, local communities, old books, and oral traditions.
 
-Every submission should include one or more verifiable sources.
+Many heroes who sacrificed for their people are remembered only by a few families or regions.
 
-Submissions may be marked as:
+If these stories are not preserved today,
+they may disappear forever.
 
-- Verified
-- Partially Verified
-- Folk Tradition
-- Needs Review
-
-This allows the platform to preserve cultural heritage while maintaining transparency about the level of historical evidence.
+Glory to India exists to make sure they don't.
 
 ---
 
-Roadmap
+✨ Vision
 
-- [ ] Design project architecture
-- [ ] Build MVP
-- [ ] Hero database
-- [ ] Search and filtering
-- [ ] Community submission system
-- [ ] Review dashboard
+Build an open digital archive where anyone can:
+
+- 🔍 Discover forgotten heroes
+- 🗺️ Explore India's history through maps
+- 🎙️ Preserve oral traditions
+- 📖 Read source-backed historical stories
+- 🤝 Contribute verified information
+- 🌏 Learn history beyond textbooks
+
+---
+
+🚀 Planned Features
+
+🦸 Heroes Archive
+
+A searchable database of India's forgotten heroes.
+
+---
+
+🗺️ ArchiveMap
+
+Explore heroes, monuments, historical places and events on an interactive map.
+
+---
+
+🎙️ StoryVault
+
+Preserve oral histories from families, villages and communities before they disappear.
+
+---
+
+📚 Source Archive
+
+Every historical entry should include references wherever possible.
+
+Supported sources include:
+
+- Books
+- Research Papers
+- Government Archives
+- Historical Documents
+- Newspapers
+- Museums
+
+---
+
+🤝 Community Contributions
+
+Anyone can contribute:
+
+- New Hero
+- Historical Event
+- Local Story
+- Historical Place
+- Source Corrections
+
+Every contribution will go through a verification process.
+
+---
+
+✅ Verification System
+
+To maintain historical integrity, stories may receive one of the following statuses:
+
+Status| Meaning
+✅ Verified| Supported by reliable historical sources
+🟡 Partially Verified| Some claims verified
+🟠 Folk Tradition| Based primarily on oral history
+🔴 Needs Review| Awaiting verification
+
+---
+
+🛣️ Roadmap
+
+Phase 1 — Foundation
+
+- [ ] Project Architecture
+- [ ] Database Design
+- [ ] UI Design
+- [ ] MVP
+
+---
+
+Phase 2 — Core Platform
+
+- [ ] Hero Profiles
+- [ ] Search
+- [ ] Categories
+- [ ] Timeline
 - [ ] ArchiveMap
+
+---
+
+Phase 3 — Community
+
 - [ ] StoryVault
-- [ ] Public launch
+- [ ] Community Contributions
+- [ ] Review Dashboard
+- [ ] Source Archive
 
 ---
 
-Contributing
+Phase 4 — Expansion
 
-Contributions are welcome.
-
-Whether you're a developer, historian, researcher, student, or someone who knows the story of a local hero, your contribution can help preserve an important part of India's history.
-
-Please include reliable sources whenever possible.
-
----
-
-License
-
-License to be decided.
+- [ ] Multi-language Support
+- [ ] Public API
+- [ ] Mobile Application
+- [ ] Offline Archive Support
 
 ---
 
-FutureByte
+🤝 Contributing
 
-Glory to India is a flagship open-source project by FutureByte, an initiative focused on building technology that preserves history, privacy, and communication.
+Whether you're a:
+
+- 👨‍💻 Developer
+- 📖 Historian
+- 🎓 Student
+- 🔬 Researcher
+- ✍️ Writer
+- ❤️ Volunteer
+
+Your contribution can help preserve India's history.
+
+Please include reliable references whenever possible.
+
+---
+
+💡 Philosophy
+
+«Technology should not only build the future.»
+
+«It should also preserve the past.»
+
+---
+
+📜 License
+
+License will be added before the first stable release.
+
+---
+
+<div align="center">🌟 FutureByte
+
+Building technology that preserves
+
+History • Privacy • Communication
+
+⭐ If you believe this mission matters, consider starring this repository.
+
+</div>
