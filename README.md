@@ -109,10 +109,10 @@ Every contribution will go through a verification process.
 
 To maintain historical integrity, stories may receive one of the following statuses:
 
-Status| Meaning
-✅ Verified| Supported by reliable historical sources
-🟡 Partially Verified| Some claims verified
-🟠 Folk Tradition| Based primarily on oral history
+Status| Meaning <br>
+✅ Verified| Supported by reliable historical sources<br>
+🟡 Partially Verified| Some claims verified<br>
+🟠 Folk Tradition| Based primarily on oral history<br>
 🔴 Needs Review| Awaiting verification
 
 ---
