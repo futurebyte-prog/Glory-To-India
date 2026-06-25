@@ -1,4 +1,4 @@
-<div align="center"> # 🇮🇳 Glory to India
+<div align="center"> <h1> 🇮🇳 Glory to India</h1>
 
 Preserving India's Forgotten Heroes, Stories & Heritage.
 
