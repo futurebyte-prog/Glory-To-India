@@ -108,13 +108,28 @@ Every contribution will go through a verification process.
 # ✅ Verification System
 
 To maintain historical integrity, stories may receive one of the following statuses:
-
-Status| Meaning <br>
-✅ Verified| Supported by reliable historical sources<br>
-🟡 Partially Verified| Some claims verified<br>
-🟠 Folk Tradition| Based primarily on oral history<br>
-🔴 Needs Review| Awaiting verification
-
+<table>
+  <tr>
+<th>Status</th>
+<th>Meaning</th>
+  </tr>
+<tr>
+<td>✅ Verified </td>
+  <td>Supported by reliable historical sources</td>
+</tr>
+<tr>
+<td>🟡 Partially Verified </td>
+<td>Some claims verified </td>
+</tr>
+<tr>
+<td>🟠 Folk Tradition </td>
+<td>Based primarily on oral history</td>
+</tr>
+<tr>
+<td>🔴 Needs Review </td>
+<td>Awaiting verification</td>
+</tr>
+</table>
 ---
 
 # 🛣️ Roadmap
