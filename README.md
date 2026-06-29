@@ -130,6 +130,7 @@ To maintain historical integrity, stories may receive one of the following statu
 <td>Awaiting verification</td>
 </tr>
 </table>
+
 ---
 
 # 🛣️ Roadmap
