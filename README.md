@@ -7,8 +7,12 @@ Preserving India's Forgotten Heroes, Stories & Heritage.
 
 ---
 
+![Status](https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)
 
-</div>---
+</div>
 
 # 📖 About
 
