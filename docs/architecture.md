@@ -1,8 +1,7 @@
-🏛️ Glory to India Architecture
+# 🏛️ Glory to India Architecture
+# Version: 0.1 (Planning Stage)
 
-«Version: 0.1 (Planning Stage)»
-
-Overview
+# Overview
 
 Glory to India follows a modern client-server architecture designed for scalability, transparency, and community collaboration.
 
@@ -10,35 +9,13 @@ The platform focuses on preserving India's historical heritage through verified 
 
 ---
 
-High-Level Architecture
 
-                        Users
-                          │
-          ┌───────────────┼───────────────┐
-          │               │               │
-     Visitors        Contributors     Administrators
-          │               │               │
-          └───────────────┼───────────────┘
-                          │
-                    Frontend (React)
-                          │
-                     REST API Server
-                          │
-        ┌─────────────────┼─────────────────┐
-        │                 │                 │
- PostgreSQL          File Storage      Search Engine
-        │                 │                 │
-        └─────────────────┼─────────────────┘
-                          │
-                  Backup & Monitoring
-
----
 
 Components
 
-Frontend
+# Frontend
 
-Responsible for:
+## Responsible for:
 
 - User Interface
 - Search
@@ -47,7 +24,7 @@ Responsible for:
 - Maps
 - Hero Profiles
 
-Planned Technologies
+## Planned Technologies
 
 - React
 - TypeScript
@@ -55,9 +32,9 @@ Planned Technologies
 
 ---
 
-Backend
+# Backend
 
-Responsible for:
+## Responsible for:
 
 - Business Logic
 - Authentication
@@ -66,16 +43,16 @@ Responsible for:
 - API
 - Notifications
 
-Planned Technologies
+## Planned Technologies
 
 - Node.js
 - Express
 
 ---
 
-Database
+# Database
 
-Stores
+## Stores
 
 - Hero Profiles
 - Stories
@@ -84,15 +61,15 @@ Stores
 - Sources
 - Verification Status
 
-Planned Database
+## Planned Database
 
 - PostgreSQL
 
 ---
 
-Storage
+# Storage
 
-Used for
+## Used for
 
 - Images
 - Documents
@@ -101,9 +78,9 @@ Used for
 
 ---
 
-Search
+# Search
 
-Provides
+## Provides
 
 - Hero Search
 - Location Search
@@ -112,23 +89,23 @@ Provides
 
 ---
 
-Core Modules
+# Core Modules
 
-Heroes Archive
+## Heroes Archive
 
 Profiles of historical figures across India.
 
 ---
 
-StoryVault
+# StoryVault
 
 Community-driven collection of oral traditions and local stories.
 
 ---
 
-ArchiveMap
+# ArchiveMap
 
-Interactive map displaying
+### Interactive map displaying
 
 - Heroes
 - Historical Sites
@@ -136,21 +113,21 @@ Interactive map displaying
 
 ---
 
-Source Archive
+## Source Archive
 
 Stores historical references used for verification.
 
 ---
 
-Timeline
+## Timeline
 
 Interactive historical timeline.
 
 ---
 
-Community
+## Community
 
-Allows contributors to
+### Allows contributors to
 
 - Submit stories
 - Upload sources
@@ -159,30 +136,12 @@ Allows contributors to
 
 ---
 
-Verification Workflow
-
-Contributor
-      │
-      ▼
-Submit Story
-      │
-      ▼
-Pending Review
-      │
-      ▼
-Volunteer Reviewer
-      │
-      ▼
-Verified
-      │
-      ▼
-Published
 
 Every historical claim should include reliable sources whenever possible.
 
 ---
 
-API Design
+# API Design
 
 The backend will expose a REST API for:
 
