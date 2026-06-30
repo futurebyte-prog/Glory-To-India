@@ -156,9 +156,9 @@ A public API may be introduced in future releases.
 
 ---
 
-Security
+# Security
 
-The project aims to implement:
+## The project aims to implement:
 
 - Authentication
 - Authorization
@@ -169,7 +169,7 @@ The project aims to implement:
 
 ---
 
-Design Principles
+# Design Principles
 
 - Accuracy over popularity
 - Sources over assumptions
@@ -180,9 +180,9 @@ Design Principles
 
 ---
 
-Future Expansion
+# Future Expansion
 
-Planned future capabilities include:
+## Planned future capabilities include:
 
 - Multi-language support
 - AI-assisted search
@@ -193,7 +193,7 @@ Planned future capabilities include:
 
 ---
 
-Status
+# Status
 
 This architecture represents the initial planning phase and will evolve as the project grows.
 
