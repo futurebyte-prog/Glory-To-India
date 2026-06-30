@@ -61,7 +61,7 @@ Build an open digital archive where anyone can:
 
 ---
 
-#🚀 Planned Features
+# 🚀 Planned Features
 
 ---
 
