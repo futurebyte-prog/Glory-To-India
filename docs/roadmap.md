@@ -28,7 +28,7 @@ This document outlines the long-term development plan for Glory to India. The ro
 
 Build the foundation of the project.
 
-###Tasks
+### Tasks
 
 - [ ] Finalize project architecture
 - [ ] Design database
