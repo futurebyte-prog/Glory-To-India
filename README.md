@@ -142,7 +142,7 @@ To maintain historical integrity, stories may receive one of the following statu
 
 # 🛣️ Roadmap
 
-Phase 1 — Foundation
+## Phase 1 — Foundation
 
 - [ ] Project Architecture
 - [ ] Database Design
@@ -151,7 +151,7 @@ Phase 1 — Foundation
 
 ---
 
-Phase 2 — Core Platform
+## Phase 2 — Core Platform
 
 - [ ] Hero Profiles
 - [ ] Search
@@ -161,7 +161,7 @@ Phase 2 — Core Platform
 
 ---
 
-Phase 3 — Community
+## Phase 3 — Community
 
 - [ ] StoryVault
 - [ ] Community Contributions
@@ -170,7 +170,7 @@ Phase 3 — Community
 
 ---
 
-Phase 4 — Expansion
+## Phase 4 — Expansion
 
 - [ ] Multi-language Support
 - [ ] Public API
