@@ -219,4 +219,4 @@ History • Privacy • Communication
 ⭐ If you believe this mission matters, consider starring this repository.
 
 </div>
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=futurebyte-prog&show_icons=true&theme=github_dark)
+
