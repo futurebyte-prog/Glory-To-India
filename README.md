@@ -219,6 +219,6 @@ History • Privacy • Communication
 ⭐ If you believe this mission matters, consider starring this repository.
 
 </div>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=Glory%20to%20India%20Stas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api?username=futurebyte_prog&custom_title=Glory%20to%20India%20Stas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=gruvbox_light)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=Glory%20to%20India%20Stas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api?username=futurebyte-prog&custom_title=Glory%20to%20India%20Stas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=gruvbox_light)
 
 
