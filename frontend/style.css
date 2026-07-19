@@ -10,5 +10,18 @@ nav ul {
 }
 body{
     margin: 0;
-    
+
+}
+header{
+    margin: 0s;
+    background-color: #0A1829;
+}
+h1{
+    color: #F8F8F8;
+}
+.tagline{
+    color: #C8D0D8;
+}
+.india{
+    color: #D4A24C;
 }
