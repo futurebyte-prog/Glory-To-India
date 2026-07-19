@@ -1,5 +1,14 @@
-nav{
+nav ul {
     list-style-type: none;
-    display: flex;
+    margin: 0;
+    padding: 0;
+    display:flex;
+    gap:2px;
+    margin-left: 230px;
+    
+    
+}
+body{
+    margin: 0;
     
 }
