@@ -143,8 +143,7 @@ To maintain historical integrity, stories may receive one of the following statu
 # 🛣️ Roadmap
 
 ## Phase 1 — Foundation
-
-- [ ] Project Architecture
+- [X] Project Architecture  
 - [ ] Database Design
 - [ ] UI Design
 - [ ] MVP
